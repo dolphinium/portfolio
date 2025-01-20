@@ -9,7 +9,8 @@ const Home = () => {
       
       <div className="flex mt-8 space-x-4">
         <a href="https://www.linkedin.com/in/yunus-emre-korkmaz-1ba287208/" target="_blank" rel="noopener noreferrer">
-        <img src="%PUBLIC_URL%/assets/icons/linkedin.svg" alt="LinkedIn" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
+        <img src={`${process.env.PUBLIC_URL}/assets/icons/linkedin.svg`}
+         alt="LinkedIn" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
         </a>
         <a href="https://github.com/dolphinium" target="_blank" rel="noopener noreferrer">
         <img src="/assets/icons/github.svg" alt="Github" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
