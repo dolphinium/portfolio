@@ -1,6 +1,6 @@
 {
   "name": "portfolio-frontend",
-  "homepage": "https://dolphinium.github.io/<repository-name>",
+  "homepage": "https://dolphinium.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
