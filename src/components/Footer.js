@@ -18,7 +18,7 @@ const Footer = () => {
         <a href="mailto:official.yunusemrekorkmaz@gmail.com">
         <img src="/portfolio/assets/icons/gmail.svg" alt="mail" className="w-8 h-8" />
         </a>
-        <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/portfolio/cv.pdf" target="_blank" rel="noopener noreferrer">
         <img src="/portfolio/assets/icons/pdf.svg" alt="pdf" className="w-8 h-8 " />
         </a>
         </div>

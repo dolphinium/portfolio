@@ -27,7 +27,7 @@ const Home = () => {
         <a href="#projects" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Discover My Projects</a>
       </div>
       <div className="flex flex-col items-center mb-10">
-          <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+          <a href="/portfolio/cv.pdf" target="_blank" rel="noopener noreferrer" className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
             View Resume
           </a>
         </div>
