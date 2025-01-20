@@ -13,13 +13,13 @@ const Home = () => {
          alt="LinkedIn" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
         </a>
         <a href="https://github.com/dolphinium" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/icons/github.svg" alt="Github" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
+        <img src="/portfolio/assets/icons/github.svg" alt="Github" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
         </a>
         <a href="https://huggingface.co/dolphinium" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/icons/huggingface.svg" alt="Huggingface" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
+        <img src="/portfolio/assets/icons/huggingface.svg" alt="Huggingface" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
         </a>
         <a href="mailto:official.yunusemrekorkmaz@gmail.com">
-        <img src="/assets/icons/gmail.svg" alt="mail" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
+        <img src="/portfolio/assets/icons/gmail.svg" alt="mail" className="w-8 h-8 hover:opacity-50 transition-opacity duration-200" />
         </a>
       </div>
 

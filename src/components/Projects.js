@@ -30,7 +30,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/nightscout.jpeg"
+                                src="/portfolio/assets/images/nightscout.jpeg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -61,7 +61,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/dbd-thumbnail.jpeg"
+                                src="/portfolio/assets/images/dbd-thumbnail.jpeg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -104,7 +104,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/airflow.jpeg"
+                                src="/portfolio/assets/images/airflow.jpeg"
                                 alt="airflow"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -143,7 +143,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/uavod-comparison.jpeg"
+                                src="/portfolio/assets/images/uavod-comparison.jpeg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -174,7 +174,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/archery-eeg.jpg"
+                                src="/portfolio/assets/images/archery-eeg.jpg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -205,7 +205,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/trodo.jpg"
+                                src="/portfolio/assets/images/trodo.jpg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -236,7 +236,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/auto-readme.jpg"
+                                src="/portfolio/assets/images/auto-readme.jpg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
@@ -267,7 +267,7 @@ const Projects = () => {
                         {/* Image */}
                         <div className="mt-4">
                             <img
-                                src="/assets/images/menumapper.jpg"
+                                src="/portfolio/assets/images/menumapper.jpg"
                                 alt="Rescuenet Damaged Building Detection"
                                 className="w-full h-auto object-contain rounded"
                             />
