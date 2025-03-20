@@ -1,0 +1,82 @@
+# Cursor Rules for Portfolio Project
+
+## Project Patterns
+1. **File Structure**
+   - Components in `src/components/`
+   - Pages in `src/pages/`
+   - Styles in `src/styles/`
+   - Assets in `public/`
+
+2. **Naming Conventions**
+   - Components: PascalCase
+   - Files: PascalCase for components
+   - Functions: camelCase
+   - Constants: UPPER_SNAKE_CASE
+
+3. **Component Structure**
+   - Functional components with hooks
+   - Props interface defined for TypeScript
+   - Component-specific styles with Tailwind
+
+4. **Code Style**
+   - ESLint configuration followed
+   - Prettier formatting
+   - JSDoc comments for complex functions
+   - Clear component documentation
+
+## Development Workflow
+1. **Git Practices**
+   - Feature branches from main
+   - Descriptive commit messages
+   - Pull request for major changes
+   - Version tagging for releases
+
+2. **Testing Requirements**
+   - Jest for unit testing
+   - React Testing Library for components
+   - Coverage requirements TBD
+   - E2E testing strategy TBD
+
+3. **Documentation**
+   - README updates for new features
+   - Component documentation required
+   - Memory Bank updates for significant changes
+   - Inline code comments for complexity
+
+## Project Intelligence
+1. **Key Paths**
+   - Main application entry: `src/App.tsx`
+   - Layout component: `src/components/Layout`
+   - Routing setup: TBD
+   - Style configuration: `tailwind.config.js`
+
+2. **Critical Components**
+   - Layout structure
+   - Navigation system
+   - Portfolio grid
+   - Skills display
+
+3. **Performance Considerations**
+   - Image optimization required
+   - Code splitting for routes
+   - Lazy loading for components
+   - Cache strategy implementation
+
+## User Preferences
+1. **Code Organization**
+   - Clear component hierarchy
+   - Modular design patterns
+   - Reusable components
+   - Maintainable structure
+
+2. **Development Focus**
+   - Performance optimization
+   - Clean code practices
+   - Modern React patterns
+   - Responsive design
+
+3. **Quality Standards**
+   - Comprehensive testing
+   - Code review process
+   - Performance benchmarks
+   - Accessibility compliance 
